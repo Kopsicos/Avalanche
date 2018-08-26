@@ -1,0 +1,21 @@
+
+Manage your expenses using the checkboxes below
+
+Savings		starts at 3
+Salary		Depends
+Total		Salary plus Savings
+Rent		2
+Food		2
+Heat		1
+Medecine(if sick) 0.5
+
+Hungry
+Cold
+Sick
+Dead
+
+Brother
+Wife
+Son
+Mother-in-Law
+Uncle
